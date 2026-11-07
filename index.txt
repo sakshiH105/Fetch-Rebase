@@ -1,1 +1,1 @@
-welcome to Git collaboration 
+Welcome to Git Collaboration
